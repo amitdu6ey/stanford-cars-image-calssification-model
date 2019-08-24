@@ -8,8 +8,8 @@ following things while experimenting around them-
 ### (2) 'Differential Learning Rates' (i.e. lower for initial layers and relatively 
 ### higher for final layers ) give better results than 'Constant Learning Rate'.
 
-### Target :
+## Target :
 To improve accuracy of ResNet50 CNN to 90%[+].
 
-### Exposure :
+## Exposure :
 Python, FastAI,PyTorch, Jupyter Notebook, CNNs ResNet34 & ResNet50 architectures. 
