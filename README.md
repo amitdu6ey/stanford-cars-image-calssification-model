@@ -6,7 +6,7 @@ I am currently working on this project and best so far I got 84.2% accuracy usin
  
  `(2) 'Differential Learning Rates' (i.e. lower for initial layers and relatively higher for final layers ) give better results than 'Constant Learning Rate'.`
 
-Update :  By just traing my model on realtively higher reslution images cross-validation accuracy improved by ~5% i.e. 89%;
+Update :  By just training my model on realtively higher reslution images cross-validation accuracy improved by ~5% i.e. 89%;
 
 ## Target :
 To improve accuracy of ResNet50 CNN to 90%[+].
