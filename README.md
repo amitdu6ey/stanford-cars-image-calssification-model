@@ -8,8 +8,7 @@ I am currently working on this project and best so far I got ~~84.2%~~ 89% accur
 
 Update :  By just training my model on realtively higher reslution images cross-validation accuracy improved by ~5% i.e. 89%;
 
-## Target :
-To improve accuracy of ResNet50 CNN to 90%[+].
-
 ## Exposure :
-Python, FastAI,PyTorch, Jupyter Notebook, CNNs ResNet34 & ResNet50 architectures. 
+`• Explore Cyclical Learning Rates, Differential Learning Rates and Transfer Learning concepts.`
+
+`• Tech Stack : FastAI [deep learning library built on top of Pytorch]`
