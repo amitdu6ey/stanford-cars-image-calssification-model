@@ -1,0 +1,4 @@
+https://course.fast.ai/
+https://www.kaggle.com/amitdu6ey/stanford-cars-resnet50?scriptVersionId=19496904
+https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6
+https://arxiv.org/pdf/1506.01186.pdf
